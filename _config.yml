@@ -22,9 +22,9 @@ title: Disorder of Magnitude
 email: jtbooth1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         I'm JT Booth, and I write about software and stuff. 
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:title/ # Remove date from URLs
-url: "http://jtbooth.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://jtbooth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jtbooth1021
 github_username:  jtbooth
 
